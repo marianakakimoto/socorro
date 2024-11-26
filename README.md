@@ -29,7 +29,6 @@ Este projeto foi desenvolvido no âmbito do curso de **Laboratório de Desenvolv
 
 ### **Deploy**
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=flat&logo=vercel&logoColor=white)
-![Fly.io](https://img.shields.io/badge/Fly.io-%2300C1D5?style=flat&logo=fly.io&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)
 
 ---
