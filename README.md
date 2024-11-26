@@ -49,5 +49,53 @@ Este projeto foi desenvolvido no âmbito do curso de **Laboratório de Desenvolv
 ### **Frontend**
 A estrutura do frontend segue o conceito de **Atomic Design**, dividindo a aplicação em componentes menores e reutilizáveis. Abaixo, mostramos um exemplo da organização:
 
-/ecosrev-frontend ├── /pages # Páginas principais da aplicação ├── /components # Componentes reutilizáveis ├── /styles # Estilos globais e temas ├── /utils # Funções utilitárias ├── /test # Testes unitários e de integração ├── /storybook # Documentação dos componentes └── /public # Arquivos estáticos (imagens, fontes, etc.)
+/.idea                # Configurações do ambiente de desenvolvimento (JetBrains)
+_mocks                # Mocks utilizados nos testes
+projeto               # Configurações gerais do projeto
+public                # Arquivos estáticos públicos (imagens, ícones, fontes)
+routes                # Configuração das rotas da aplicação
+src                   # Código-fonte da aplicação
+    ├── /atoms        # Componentes atômicos (simples e reutilizáveis)
+    │   ├── Button.js
+    │   ├── Input.js
+    │   └── FormText.js
+    │
+    ├── /molecules    # Combinação de átomos em unidades funcionais
+    │   ├── LoginForm.js
+    │   ├── Card.js
+    │   └── InputWithLabel.js
+    │
+    ├── /organisms    # Agrupamento de moléculas em seções completas da UI
+    │   ├── Header.js
+    │   ├── Sidebar.js
+    │   └── Footer.js
+    │
+    ├── /templates    # Estruturas de layout usando organismos e moléculas
+    │   ├── AuthTemplate.js
+    │   ├── MainLayout.js
+    │   └── DashboardLayout.js
+    │
+    ├── /pages        # Páginas completas combinando templates e componentes
+    │   ├── LoginPage.js
+    │   ├── SignUpPage.js
+    │   └── DashboardPage.js
+    │
+    ├── /themes       # Configurações de temas (cores, tipografia)
+    │   ├── theme.js
+    │   └── ThemeProvider.js
+    │
+    └── /assets       # Arquivos de estilo global, como CSS ou SCSS
+        ├── styles.css
+        └── reset.css
+tests                 # Arquivos de teste (unitários e de integração)
+    ├── /pages       # Testes das páginas
+    │   ├── LoginPage.test.js
+    │   ├── SignUpPage.test.js
+    │   └── DashboardPage.test.js
+    │
+    └── /components  # Testes para componentes reutilizáveis
+        ├── Button.test.js
+        ├── Input.test.js
+        └── Card.test.js
+
 
