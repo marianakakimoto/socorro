@@ -50,3 +50,5 @@ Este projeto foi desenvolvido no âmbito do curso de **Laboratório de Desenvolv
 ### **Frontend**
 A estrutura do frontend segue o conceito de **Atomic Design**, dividindo a aplicação em componentes menores e reutilizáveis. Abaixo, mostramos um exemplo da organização:
 
+/ecosrev-frontend ├── /pages # Páginas principais da aplicação ├── /components # Componentes reutilizáveis ├── /styles # Estilos globais e temas ├── /utils # Funções utilitárias ├── /test # Testes unitários e de integração ├── /storybook # Documentação dos componentes └── /public # Arquivos estáticos (imagens, fontes, etc.)
+
