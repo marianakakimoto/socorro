@@ -36,9 +36,8 @@ Este projeto foi desenvolvido no âmbito do curso de **Laboratório de Desenvolv
 
 ## 💡 Funcionalidades
 
-- **Conexão com empresas de reciclagem**: Plataforma que conecta cidadãos com empresas especializadas na coleta de resíduos eletrônicos.
 - **Sistema de recompensas**: Incentiva os usuários a descartarem seus resíduos corretamente em troca de benefícios.
-- **Autenticação segura**: Implementação de **OAuth 2.0** para garantir a segurança no processo de login e comunicação entre frontend e backend.
+- **Autenticação segura**: Implementação de OAuth 2.0 para garantir a segurança no processo de login e comunicação entre frontend e backend.
 - **Documentação e visualização de componentes**: Todos os componentes do frontend estão documentados no **Storybook** para fácil reutilização e entendimento.
 - **Testes automatizados**: O código foi testado utilizando **Jest** e **React Testing Library**, garantindo uma cobertura de testes acima de 80%.
 - **API bem documentada**: A API do backend é documentada utilizando **Swagger**, oferecendo uma visão clara sobre as rotas e funcionalidades.
