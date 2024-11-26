@@ -11,26 +11,26 @@ Este projeto foi desenvolvido no âmbito do curso de **Laboratório de Desenvolv
 ## 🔧 Tecnologias Utilizadas
 
 ### **Frontend**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Next.js_Logo.svg" alt="Next.js" width="40"/>
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="40"/>
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/TypeScript_logo_2020.svg" alt="TypeScript" width="40"/>
-- <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atomic_Design_logo.svg" alt="Atomic Design" width="40"/>
-- <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Jest_logo_2020.png" alt="Jest" width="40"/>
-- <img src="https://testing-library.com/img/logo.svg" alt="React Testing Library" width="40"/>
-- <img src="https://storybook.js.org/images/logos/logo-storybook.svg" alt="Storybook" width="40"/>
-- <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/OAuth_2.0_logo.svg" alt="OAuth 2.0" width="40"/>
+![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat&logo=next.js&logoColor=white)
+![React.js](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=white)
+![Atomic Design](https://img.shields.io/badge/Atomic_Design-%2300B4D8?style=flat&logo=html5&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-%23C21325?style=flat&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-%23E0E0E0?style=flat&logo=react&logoColor=%23FF6138)
+![Storybook](https://img.shields.io/badge/Storybook-%23FF4785?style=flat&logo=storybook&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-%23A6C8FF?style=flat&logo=oauth&logoColor=white)
 
 ### **Backend**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="40"/>
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40"/>
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/MongoDB_logo.svg" alt="MongoDB" width="40"/>
-- <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Swagger_logo.svg" alt="Swagger" width="40"/>
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Postman_logo.png" alt="Postman" width="40"/>
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=flat&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%2385B8C8?style=flat&logo=swagger&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### **Deploy**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Vercel_Logo.svg" alt="Vercel" width="40"/>
-- <img src="https://fly.io/assets/fly-logo.svg" alt="Fly.io" width="40"/>
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40"/>
+![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=flat&logo=vercel&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-%2300C1D5?style=flat&logo=fly.io&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)
 
 ---
 
