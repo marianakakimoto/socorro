@@ -1,5 +1,5 @@
 # 
-![Banner para Site Sua Nova Sombra Roxo e Azul Moderno Delicado](https://github.com/user-attachments/assets/37ec0295-1331-4944-ac2c-fb85503723cd)
+<img src="https://github.com/user-attachments/assets/37ec0295-1331-4944-ac2c-fb85503723cd" alt="Banner para Site Sua Nova Sombra Roxo e Azul Moderno Delicado" style="border-radius: 16px; width: 100%; height: auto;">
 
 ## 🚀 Visão Geral
 
