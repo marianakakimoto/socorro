@@ -1,4 +1,5 @@
-# Ecosrev - Projeto Integrador
+# 
+![Banner para Site Sua Nova Sombra Roxo e Azul Moderno Delicado](https://github.com/user-attachments/assets/37ec0295-1331-4944-ac2c-fb85503723cd)
 
 ## 🚀 Visão Geral
 
