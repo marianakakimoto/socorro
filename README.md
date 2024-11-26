@@ -43,59 +43,106 @@ Este projeto foi desenvolvido no âmbito do curso de **Laboratório de Desenvolv
 - **API bem documentada**: A API do backend é documentada utilizando **Swagger**, oferecendo uma visão clara sobre as rotas e funcionalidades.
 
 ---
+📦 Como Rodar o Projeto Localmente
+Para rodar o projeto em seu ambiente local, siga as instruções abaixo:
 
-## 🏗️ Estrutura do Projeto
+Pré-requisitos
+Antes de começar, certifique-se de ter o Node.js (versão 14 ou superior) e o npm (ou yarn) instalados em seu sistema. Caso não tenha, instale o Node.js através do site oficial.
 
-### **Frontend**
-A estrutura do frontend segue o conceito de **Atomic Design**, dividindo a aplicação em componentes menores e reutilizáveis. Abaixo, mostramos um exemplo da organização:
+Passo 1: Clone o Repositório
+Clone o repositório para sua máquina local:
 
-/.idea                # Configurações do ambiente de desenvolvimento (JetBrains)
-_mocks                # Mocks utilizados nos testes
-projeto               # Configurações gerais do projeto
-public                # Arquivos estáticos públicos (imagens, ícones, fontes)
-routes                # Configuração das rotas da aplicação
-src                   # Código-fonte da aplicação
-    ├── /atoms        # Componentes atômicos (simples e reutilizáveis)
-    │   ├── Button.js
-    │   ├── Input.js
-    │   └── FormText.js
-    │
-    ├── /molecules    # Combinação de átomos em unidades funcionais
-    │   ├── LoginForm.js
-    │   ├── Card.js
-    │   └── InputWithLabel.js
-    │
-    ├── /organisms    # Agrupamento de moléculas em seções completas da UI
-    │   ├── Header.js
-    │   ├── Sidebar.js
-    │   └── Footer.js
-    │
-    ├── /templates    # Estruturas de layout usando organismos e moléculas
-    │   ├── AuthTemplate.js
-    │   ├── MainLayout.js
-    │   └── DashboardLayout.js
-    │
-    ├── /pages        # Páginas completas combinando templates e componentes
-    │   ├── LoginPage.js
-    │   ├── SignUpPage.js
-    │   └── DashboardPage.js
-    │
-    ├── /themes       # Configurações de temas (cores, tipografia)
-    │   ├── theme.js
-    │   └── ThemeProvider.js
-    │
-    └── /assets       # Arquivos de estilo global, como CSS ou SCSS
-        ├── styles.css
-        └── reset.css
-tests                 # Arquivos de teste (unitários e de integração)
-    ├── /pages       # Testes das páginas
-    │   ├── LoginPage.test.js
-    │   ├── SignUpPage.test.js
-    │   └── DashboardPage.test.js
-    │
-    └── /components  # Testes para componentes reutilizáveis
-        ├── Button.test.js
-        ├── Input.test.js
-        └── Card.test.js
+bash
+Copiar código
+git clone https://github.com/usuario/ecosrev.git
+cd ecosrev
+Passo 2: Instalar as Dependências
+Navegue até o diretório do projeto e instale as dependências tanto do frontend quanto do backend:
 
+Frontend
+Entre na pasta do frontend e instale as dependências:
+
+bash
+Copiar código
+cd frontend
+npm install
+Backend
+Entre na pasta do backend e instale as dependências:
+
+bash
+Copiar código
+cd backend
+npm install
+Passo 3: Configurar as Variáveis de Ambiente
+O projeto exige algumas variáveis de ambiente para funcionar corretamente. Crie um arquivo .env no diretório raiz do projeto (se ainda não existir) e configure as seguintes variáveis:
+
+env
+Copiar código
+MONGO_URI=seu_mongo_uri
+JWT_SECRET=sua_chave_secreta
+PORT=porta_backend
+CLIENT_URL=URL_do_frontend
+MONGO_URI: A URL de conexão com o banco de dados MongoDB.
+JWT_SECRET: Uma chave secreta para gerar tokens JWT.
+PORT: A porta onde o backend estará rodando (exemplo: 5000).
+CLIENT_URL: URL onde o frontend estará rodando (exemplo: http://localhost:3000).
+Passo 4: Rodar o Projeto
+Agora, você pode rodar o frontend e o backend em seu ambiente local:
+
+Frontend
+Execute o servidor de desenvolvimento do frontend:
+
+bash
+Copiar código
+cd frontend
+npm run dev
+O frontend estará disponível em http://localhost:3000.
+
+Backend
+Execute o servidor de desenvolvimento do backend:
+
+bash
+Copiar código
+cd backend
+npm run dev
+O backend estará disponível em http://localhost:5000 (ou qualquer porta configurada no .env).
+
+📄 Documentação da API
+A API do projeto está documentada e pode ser acessada pelo Swagger. Após rodar o backend, você pode acessar a documentação da API no seguinte endereço:
+
+bash
+Copiar código
+http://localhost:5000/api-docs
+A documentação fornece detalhes sobre as rotas disponíveis, parâmetros necessários, exemplos de requisições e respostas, além de explicar o fluxo da autenticação via OAuth 2.0.
+
+🧑‍🤝‍🧑 Contribuindo
+Contribuições são sempre bem-vindas! Para contribuir com o projeto, siga as etapas abaixo:
+
+Faça um fork do repositório.
+Clone o repositório para sua máquina local.
+Crie uma branch para sua feature ou correção.
+Implemente suas alterações e escreva testes quando necessário.
+Envie um pull request com uma descrição detalhada sobre o que foi alterado.
+Se possível, adicione testes automatizados para garantir a qualidade do código.
+
+📜 Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais informações.
+
+📝 Contato
+Se você tiver dúvidas ou sugestões, entre em contato pelo email:
+contato@ecosrev.com
+
+Ou acesse o repositório no GitHub:
+https://github.com/usuario/ecosrev
+
+🎨 Design e Interfaces
+A plataforma foi projetada com uma interface limpa e intuitiva, priorizando a experiência do usuário. O design segue a filosofia de Atomic Design, garantindo que os componentes sejam reutilizáveis e facilmente escaláveis. A paleta de cores foi escolhida para ser suave e amigável, com destaque para tons de roxo e azul, transmitindo modernidade e confiança.
+
+🧑‍💻 Desenvolvedores
+Este projeto foi desenvolvido por uma equipe de estudantes do curso de Laboratório de Desenvolvimento Web. Abaixo estão os nomes dos principais colaboradores:
+
+Fulano de Tal - Frontend Developer
+Ciclano da Silva - Backend Developer
+Beltrano Oliveira - UX/UI Designer
+Agradecemos à comunidade open-source, cujas bibliotecas e ferramentas ajudaram a tornar este projeto possível.
 
