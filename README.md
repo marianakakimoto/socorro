@@ -12,28 +12,28 @@ Este projeto foi desenvolvido no âmbito do curso de **Laboratório de Desenvolv
 
 ### **Frontend**
 
-- ![Next.js](https://upload.wikimedia.org/wikipedia/commons/a/a6/Next.js_Logo.svg) **Next.js**: Framework React para renderização no lado do servidor (SSR) e geração de sites estáticos (SSG).
-- ![React.js](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) **React.js**: Biblioteca JavaScript para a construção de interfaces dinâmicas e reativas.
-- ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4e/TypeScript_logo_2020.svg) **TypeScript**: Para garantir tipagem estática e maior segurança durante o desenvolvimento.
-- ![Atomic Design](https://upload.wikimedia.org/wikipedia/commons/e/e2/Atomic_Design_logo.svg) **Atomic Design**: Estruturação do frontend utilizando Atomic Design para modularizar e reutilizar componentes.
-- ![Jest](https://upload.wikimedia.org/wikipedia/commons/f/fa/Jest_logo_2020.png) **Jest**: Framework de testes unitários para garantir a robustez do código.
-- ![React Testing Library](https://testing-library.com/img/logo.svg) **React Testing Library**: Biblioteca para testes de componentes React, promovendo boas práticas de testes de interface.
-- ![Storybook](https://storybook.js.org/images/logos/logo-storybook.svg) **Storybook**: Ferramenta para documentação e visualização isolada dos componentes do frontend.
-- ![OAuth 2.0](https://upload.wikimedia.org/wikipedia/commons/4/4e/OAuth_2.0_logo.svg) **OAuth 2.0**: Implementação de autenticação segura entre o frontend e o backend.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Next.js_Logo.svg" alt="Next.js" width="50"/> **Next.js**: Framework React para renderização no lado do servidor (SSR) e geração de sites estáticos (SSG).
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="50"/> **React.js**: Biblioteca JavaScript para a construção de interfaces dinâmicas e reativas.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/TypeScript_logo_2020.svg" alt="TypeScript" width="50"/> **TypeScript**: Para garantir tipagem estática e maior segurança durante o desenvolvimento.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atomic_Design_logo.svg" alt="Atomic Design" width="50"/> **Atomic Design**: Estruturação do frontend utilizando Atomic Design para modularizar e reutilizar componentes.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Jest_logo_2020.png" alt="Jest" width="50"/> **Jest**: Framework de testes unitários para garantir a robustez do código.
+- <img src="https://testing-library.com/img/logo.svg" alt="React Testing Library" width="50"/> **React Testing Library**: Biblioteca para testes de componentes React, promovendo boas práticas de testes de interface.
+- <img src="https://storybook.js.org/images/logos/logo-storybook.svg" alt="Storybook" width="50"/> **Storybook**: Ferramenta para documentação e visualização isolada dos componentes do frontend.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OAuth_2.0_logo.svg" alt="OAuth 2.0" width="50"/> **OAuth 2.0**: Implementação de autenticação segura entre o frontend e o backend.
 
 ### **Backend**
 
-- ![Express.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png) **Express.js**: Framework web minimalista para Node.js, utilizado para criação da API RESTful.
-- ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) **Node.js**: Ambiente de execução JavaScript para backend.
-- ![MongoDB](https://upload.wikimedia.org/wikipedia/commons/4/43/MongoDB_logo.svg) **MongoDB**: Banco de dados NoSQL para armazenar dados de usuários e registros de descarte de resíduos.
-- ![Swagger](https://upload.wikimedia.org/wikipedia/commons/e/ec/Swagger_logo.svg) **Swagger**: Ferramenta de documentação da API.
-- ![Postman](https://upload.wikimedia.org/wikipedia/commons/a/a1/Postman_logo.png) **Postman**: Utilizado para testes de integração e validação das rotas da API.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="50"/> **Express.js**: Framework web minimalista para Node.js, utilizado para criação da API RESTful.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="50"/> **Node.js**: Ambiente de execução JavaScript para backend.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/MongoDB_logo.svg" alt="MongoDB" width="50"/> **MongoDB**: Banco de dados NoSQL para armazenar dados de usuários e registros de descarte de resíduos.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Swagger_logo.svg" alt="Swagger" width="50"/> **Swagger**: Ferramenta de documentação da API.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Postman_logo.png" alt="Postman" width="50"/> **Postman**: Utilizado para testes de integração e validação das rotas da API.
 
 ### **Deploy**
 
-- ![Vercel](https://upload.wikimedia.org/wikipedia/commons/a/a1/Vercel_Logo.svg) **Vercel**: Para hospedagem do frontend.
-- ![Fly.io](https://fly.io/assets/fly-logo.svg) **Fly.io**: Para hospedagem do backend.
-- ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg) **GitHub**: Repositórios públicos para armazenar o código do frontend e backend.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Vercel_Logo.svg" alt="Vercel" width="50"/> **Vercel**: Para hospedagem do frontend.
+- <img src="https://fly.io/assets/fly-logo.svg" alt="Fly.io" width="50"/> **Fly.io**: Para hospedagem do backend.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50"/> **GitHub**: Repositórios públicos para armazenar o código do frontend e backend.
 
 ---
 
