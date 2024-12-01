@@ -68,7 +68,6 @@ Frontend
 Entre na pasta do frontend e instale as dependências:
 
 ```bash
-Copiar código
 cd frontend
 npm install
 ```
@@ -78,7 +77,6 @@ Entre na pasta do backend e instale as dependências:
 
 
 ```bash
-Copiar código
 cd backend
 npm install
 ```
@@ -103,7 +101,6 @@ Frontend
 Execute o servidor de desenvolvimento do frontend:
 
 ```bash
-Copiar código
 cd frontend
 npm run dev
 ```
@@ -113,7 +110,6 @@ Backend
 Execute o servidor de desenvolvimento do backend:
 
 ```bash
-Copiar código
 cd backend
 npm run dev
 ```
