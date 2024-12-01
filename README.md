@@ -59,7 +59,7 @@ Clone o repositório para sua máquina local:
 ```bash
 git clone https://github.com/usuario/ecosrev.git
 cd ecosrev
-
+```
 📦 Como Rodar o Projeto Localmente - Falta formatar :( 
 Para rodar o projeto em seu ambiente local, siga as instruções abaixo:
 
