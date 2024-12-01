@@ -41,7 +41,7 @@ Este projeto foi desenvolvido no âmbito do curso de **Laboratório de Desenvolv
 - **API bem documentada**: A API do backend é documentada utilizando **Swagger**, oferecendo uma visão clara sobre as rotas e funcionalidades.
 
 ---
-📦 Como Rodar o Projeto Localmente
+📦 Como Rodar o Projeto Localmente - Falta formatar :( 
 Para rodar o projeto em seu ambiente local, siga as instruções abaixo:
 
 Pré-requisitos
@@ -113,30 +113,16 @@ Copiar código
 http://localhost:5000/api-docs
 A documentação fornece detalhes sobre as rotas disponíveis, parâmetros necessários, exemplos de requisições e respostas, além de explicar o fluxo da autenticação via OAuth 2.0.
 
-🧑‍🤝‍🧑 Contribuindo
-Contribuições são sempre bem-vindas! Para contribuir com o projeto, siga as etapas abaixo:
-
-Faça um fork do repositório.
-Clone o repositório para sua máquina local.
-Crie uma branch para sua feature ou correção.
-Implemente suas alterações e escreva testes quando necessário.
-Envie um pull request com uma descrição detalhada sobre o que foi alterado.
-Se possível, adicione testes automatizados para garantir a qualidade do código.
-
-📜 Licença
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais informações.
-
-📝 Contato
-Se você tiver dúvidas ou sugestões, entre em contato pelo email:
-contato@ecosrev.com
-
-Ou acesse o repositório no GitHub:
-https://github.com/usuario/ecosrev
 
 🎨 Design e Interfaces
 A plataforma foi projetada com uma interface limpa e intuitiva, priorizando a experiência do usuário. O design segue a filosofia de Atomic Design, garantindo que os componentes sejam reutilizáveis e facilmente escaláveis. A paleta de cores foi escolhida para ser suave e amigável, com destaque para tons de roxo e azul, transmitindo modernidade e confiança.
 
+## 💡 Protótipo
 
+Acesse o protótipo interativo no Figma:  
+[Protótipo no Figma](https://www.figma.com/design/9qf7Ry7BcaML25kAtYWB17/Untitled)
+
+---
 
 
 🧑‍💻 Desenvolvedores
