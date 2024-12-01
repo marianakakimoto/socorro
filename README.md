@@ -60,41 +60,33 @@ Clone o repositório para sua máquina local:
 git clone https://github.com/usuario/ecosrev.git
 cd ecosrev
 ```
-📦 Como Rodar o Projeto Localmente - Falta formatar :( 
-Para rodar o projeto em seu ambiente local, siga as instruções abaixo:
 
-Pré-requisitos
-Antes de começar, certifique-se de ter o Node.js (versão 14 ou superior) e o npm (ou yarn) instalados em seu sistema. Caso não tenha, instale o Node.js através do site oficial.
-
-Passo 1: Clone o Repositório
-Clone o repositório para sua máquina local:
-
-bash
-Copiar código
-git clone https://github.com/usuario/ecosrev.git
-cd ecosrev
-Passo 2: Instalar as Dependências
+## **Passo 2: Instalar as Dependências**
 Navegue até o diretório do projeto e instale as dependências tanto do frontend quanto do backend:
 
 Frontend
 Entre na pasta do frontend e instale as dependências:
 
-bash
+```bash
 Copiar código
 cd frontend
 npm install
+```
+
 Backend
 Entre na pasta do backend e instale as dependências:
 
-bash
+
+```bash
 Copiar código
 cd backend
 npm install
-Passo 3: Configurar as Variáveis de Ambiente
+```
+## **Passo 3: Configurar as Variáveis de Ambiente**
 O projeto exige algumas variáveis de ambiente para funcionar corretamente. Crie um arquivo .env no diretório raiz do projeto (se ainda não existir) e configure as seguintes variáveis:
 
-env
-Copiar código
+.env
+```bash
 MONGO_URI=seu_mongo_uri
 JWT_SECRET=sua_chave_secreta
 PORT=porta_backend
@@ -103,32 +95,33 @@ MONGO_URI: A URL de conexão com o banco de dados MongoDB.
 JWT_SECRET: Uma chave secreta para gerar tokens JWT.
 PORT: A porta onde o backend estará rodando (exemplo: 5000).
 CLIENT_URL: URL onde o frontend estará rodando (exemplo: http://localhost:3000).
-Passo 4: Rodar o Projeto
+```
+## **Passo 4: Rodar o Projeto**
 Agora, você pode rodar o frontend e o backend em seu ambiente local:
 
 Frontend
 Execute o servidor de desenvolvimento do frontend:
 
-bash
+```bash
 Copiar código
 cd frontend
 npm run dev
+```
 O frontend estará disponível em http://localhost:3000.
 
 Backend
 Execute o servidor de desenvolvimento do backend:
 
-bash
+```bash
 Copiar código
 cd backend
 npm run dev
+```
 O backend estará disponível em http://localhost:5000 (ou qualquer porta configurada no .env).
 
 📄 Documentação da API
 A API do projeto está documentada e pode ser acessada pelo Swagger. Após rodar o backend, você pode acessar a documentação da API no seguinte endereço:
 
-bash
-Copiar código
 http://localhost:5000/api-docs
 A documentação fornece detalhes sobre as rotas disponíveis, parâmetros necessários, exemplos de requisições e respostas, além de explicar o fluxo da autenticação via OAuth 2.0.
 
