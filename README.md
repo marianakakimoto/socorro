@@ -18,8 +18,6 @@ Este projeto foi desenvolvido no âmbito do curso de **Laboratório de Desenvolv
 ![Atomic Design](https://img.shields.io/badge/Atomic_Design-%2300B4D8?style=flat&logo=html5&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325?style=flat&logo=jest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-%23E0E0E0?style=flat&logo=react&logoColor=%23FF6138)
-![Storybook](https://img.shields.io/badge/Storybook-%23FF4785?style=flat&logo=storybook&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-%23A6C8FF?style=flat&logo=oauth&logoColor=white)
 
 ### **Backend**
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=flat&logo=express&logoColor=white)
@@ -138,11 +136,16 @@ https://github.com/usuario/ecosrev
 🎨 Design e Interfaces
 A plataforma foi projetada com uma interface limpa e intuitiva, priorizando a experiência do usuário. O design segue a filosofia de Atomic Design, garantindo que os componentes sejam reutilizáveis e facilmente escaláveis. A paleta de cores foi escolhida para ser suave e amigável, com destaque para tons de roxo e azul, transmitindo modernidade e confiança.
 
+
+
+
 🧑‍💻 Desenvolvedores
 Este projeto foi desenvolvido por uma equipe de estudantes do curso de Laboratório de Desenvolvimento Web. Abaixo estão os nomes dos principais colaboradores:
-
-Fulano de Tal - Frontend Developer
-Ciclano da Silva - Backend Developer
-Beltrano Oliveira - UX/UI Designer
-Agradecemos à comunidade open-source, cujas bibliotecas e ferramentas ajudaram a tornar este projeto possível.
+| Nome | GitHub |
+| ----- | ------ |
+| *Gabriel Yamaoka Bernardes* | [YamaokaK](https://github.com/YamaokaK) |
+| *João Lucas Melo* | [JoaoLucasMdO](https://github.com/JoaoLucasMdO) |
+| *Laura Jane Antunes* | [LauraJaneAntunes](https://github.com/LauraJaneAntunes) |
+| *Mariana Hirata* | [marianakakimoto](https://github.com/marianakakimoto) |
+| *Mateus Ferreira* | [AEntropia](https://github.com/AEntropia) |
 
