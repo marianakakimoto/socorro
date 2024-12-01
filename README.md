@@ -41,6 +41,25 @@ Este projeto foi desenvolvido no âmbito do curso de **Laboratório de Desenvolv
 - **API bem documentada**: A API do backend é documentada utilizando **Swagger**, oferecendo uma visão clara sobre as rotas e funcionalidades.
 
 ---
+# 📦 Como Rodar o Projeto Localmente  
+
+Para rodar o projeto em seu ambiente local, siga as instruções abaixo:  
+
+---
+
+## **Pré-requisitos**  
+Antes de começar, certifique-se de ter o **Node.js** (versão 14 ou superior) e o **npm** (ou **yarn**) instalados em seu sistema.  
+Caso não tenha, instale o Node.js através do [site oficial](https://nodejs.org/).  
+
+---
+
+## **Passo 1: Clone o Repositório**  
+Clone o repositório para sua máquina local:  
+
+```bash
+git clone https://github.com/usuario/ecosrev.git
+cd ecosrev
+
 📦 Como Rodar o Projeto Localmente - Falta formatar :( 
 Para rodar o projeto em seu ambiente local, siga as instruções abaixo:
 
