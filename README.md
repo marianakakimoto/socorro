@@ -173,10 +173,10 @@ Acesse o protótipo interativo no Figma:
   </p>
 </details>
 
-##🌐 Hospedagem do Site
+###🌐 Hospedagem do Site
 Este site está hospedado na [Vercel](https://vercel.com), uma plataforma de deploy e hospedagem de aplicações web, otimizada para projetos front-end e full-stack. A Vercel oferece recursos como deploys automáticos a partir de repositórios Git, integração contínua e um desempenho de alta qualidade com uma rede de entrega de conteúdo (CDN) global.
 
-##📍 Acesso
+###📍 Acesso
 Você pode acessar o site através do seguinte link: [EcosRev - PI](https://ecos-rev-pi.vercel.app)
 
 
