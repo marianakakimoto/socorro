@@ -199,9 +199,6 @@ Acesse o protótipo interativo no Figma:
   </p>
    Link do Frontend no Docker Hub:  
       <a href="https://hub.docker.com/r/yamaokak/ecosrev-frontend" target="_blank">https://hub.docker.com/r/yamaokak/ecosrev-frontend</a>
-  <details>    
-    
-  </details>
   
   <details>
     <summary>🐳 Docker: Backend</summary>
@@ -227,6 +224,7 @@ Acesse o protótipo interativo no Figma:
   </p>
   </details>
 </details>
+
 
 ## 🌐 Hospedagem do Site
 Este site está hospedado na [Vercel](https://vercel.com), uma plataforma de deploy e hospedagem de aplicações web, otimizada para projetos front-end e full-stack. A Vercel oferece recursos como deploys automáticos a partir de repositórios Git, integração contínua e um desempenho de alta qualidade com uma rede de entrega de conteúdo (CDN) global.
