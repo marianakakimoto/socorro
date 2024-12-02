@@ -44,39 +44,39 @@ Este projeto foi desenvolvido no âmbito do curso de **Laboratório de Desenvolv
 <details>
   <summary>🎬 Apresentação</summary>
   <p>
-    >Cadastro: 
+    <summary>Cadastro</summary>
     <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_cadastro.gif" alt="Cadastro">
   </p>
   <p>
-    >Login (usuário):
+    <summary>Login (usuário) </summary>
     <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_login.gif" alt="Login Usuário">
   </p>
   <p>
-    >Selecionar benefícios para resgate: 
+    <summary>Selecionar benefícios para resgate </summary>
     <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_trocapontos.gif" alt="Selecionar Benefícios">
   </p>
   <p>
-    >Perfil:
+    <summary>Perfil </summary>
     <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_perfil.gif" alt="Perfil">
   </p>
   <p>
-    >Logout:  
+    <summary>Logout </summary>
     <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_logout.gif" alt="Logout">
   </p>
   <p>
-    >Login (administrador):  
+    <summary>Login (administrador) </summary> 
     <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/admin_login.gif" alt="Login Administrador">
   </p>
   <p>
-    >Cadastrar Benefícios:
+    <summary>Cadastrar benefícios </summary> 
     <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/admin_cadastrarBeneficios.gif" alt="Cadastrar Benefícios">
   </p>
   <p>
-    >Editar Benefícios: 
+    <summary>Editar benefícios </summary> 
     <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/admin_editarBeneficios.gif" alt="Editar Benefícios">
   </p>
   <p>
-    >Editar Pontos:
+    <summary>Editar pontos </summary> 
     <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/admin_editarPontos.gif" alt="Editar Pontos">
   </p>
 </details>
