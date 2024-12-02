@@ -134,7 +134,7 @@ Acesse o protótipo interativo no Figma:
 
 
 🧑‍💻 Desenvolvedores
-Este projeto foi desenvolvido por uma equipe de estudantes do curso de Laboratório de Desenvolvimento Web. Abaixo estão os nomes dos principais colaboradores:
+Este projeto foi desenvolvido por uma equipe de estudantes do curso de Desenvolvimento de Software Multiplataforma. Abaixo estão os nomes dos colaboradores:
 | Nome | GitHub |
 | ----- | ------ |
 | *Gabriel Yamaoka Bernardes* | [YamaokaK](https://github.com/YamaokaK) |
