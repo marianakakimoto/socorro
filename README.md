@@ -172,6 +172,56 @@ Acesse o protótipo interativo no Figma:
 
 ---
 
+<details>
+    <summary style="color: #0070f3;">🐳 Docker: O que é e Como Usar</summary>
+  <p>
+    No desenvolvimento do EcosRev, utilizamos o Docker para garantir que tanto o frontend quanto o backend fossem executados de maneira consistente em diferentes ambientes. 
+    Com a utilização de contêineres Docker, conseguimos isolar os serviços, garantindo que as dependências necessárias para o funcionamento de cada parte da aplicação estivessem sempre presentes,   
+    independentemente do ambiente em que o projeto estivesse rodando.
+
+   Você pode baixar o material completo em um arquivo .doc com as instruções detalhadas no link abaixo:
+
+    <a href="https://www.exemplo.com/arquivo/docker_instrucoes.doc" target="_blank">Baixar Instruções do Docker</a>
+  </p>  
+  
+  <details>
+    <summary>🐳 Docker: Frontend</summary>
+    <p>
+      Construir a Imagem do Frontend:  
+      docker build -t ecosrev-frontend-app .
+  
+      Executar o Container:  
+      docker run -p 3000:3000 -e NEXT_PUBLIC_API_URL=http://localhost:4000/api
+  
+      Link do Frontend no Docker Hub:  
+      <a href="https://hub.docker.com/r/yamaokak/ecosrev-frontend" target="_blank">https://hub.docker.com/r/yamaokak/ecosrev-frontend</a>
+    </p>
+    
+  </details>
+  
+  <details>
+    <summary>🐳 Docker: Backend</summary>
+    <p>
+      Construir a Imagem do Backend:  
+      docker build -t ecosrev-backend .
+  
+      Executar o Container:  
+      docker run -p 4000:4000 --env-file .env ecosrev-backend
+  
+      Link do Backend no Docker Hub:  
+      <a href="https://www.exemplo.com/arquivo/docker_instrucoes.doc" target="_blank">Baixar Instruções do Docker</a>
+    </p>
+  </details>
+  
+  <details>
+    <summary>🐳 Docker: Composição (Frontend + Backend)</summary>
+    <p>
+      Rodar Frontend e Backend no Mesmo Container:  
+      docker-compose up --build
+    </p>
+  </details>
+</details>
+
 ## 🌐 Hospedagem do Site
 Este site está hospedado na [Vercel](https://vercel.com), uma plataforma de deploy e hospedagem de aplicações web, otimizada para projetos front-end e full-stack. A Vercel oferece recursos como deploys automáticos a partir de repositórios Git, integração contínua e um desempenho de alta qualidade com uma rede de entrega de conteúdo (CDN) global.
 
