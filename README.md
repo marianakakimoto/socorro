@@ -42,9 +42,9 @@ Este projeto foi desenvolvido no âmbito do curso de **Laboratório de Desenvolv
 ---
 
 <details>
-  <detail>🎬 Apresentação</details>
+  <summary>🎬 Apresentação</summary>
   <p>
-    <summary>Cadastro</summary>
+    <details>Cadastro</details>
     <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_cadastro.gif" alt="Cadastro">
   </p>
   <p>
