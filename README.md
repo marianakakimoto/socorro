@@ -92,7 +92,7 @@ cd ecosrev
 ## **Passo 2: Instalar as Dependências**
 Navegue até o diretório do projeto e instale as dependências tanto do frontend quanto do backend:
 
-Frontend
+Frontend:
 Entre na pasta do frontend e instale as dependências:
 
 ```bash
@@ -100,7 +100,7 @@ cd frontend
 npm install
 ```
 
-Backend
+Backend:
 Entre na pasta do backend e instale as dependências:
 
 
