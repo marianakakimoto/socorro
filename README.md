@@ -40,6 +40,35 @@ Este projeto foi desenvolvido no âmbito do curso de **Laboratório de Desenvolv
 - **API bem documentada**: A API do backend é documentada utilizando **Swagger**, oferecendo uma visão clara sobre as rotas e funcionalidades.
 
 ---
+
+## 🎬 Apresentação
+
+> Cadastro:
+![cadastroGif](https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_cadastro.gif)
+
+> Login (usuário): 
+![loginUsuarioGif](https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_login.gif)
+
+> Selecionar benefícios para resgate:
+![pontosGif](https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_trocapontos.gif)
+
+> Perfil:
+![perfilGif](https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_perfil.gif)
+
+> Logout:
+![logoutGif](https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_logout.gif)
+
+> Login (administrador):
+![loginAdminGif](https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/admin_login.gif)
+
+> Cadastrar Benefícios:
+![cadastrarBeneficiosGif](https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/admin_cadastrarBeneficios.gif)
+
+> Editar Benefícios:
+![editarBeneficiosGif](https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/admin_editarBeneficios.gif)
+
+> Editar Pontos:
+![editarPontosGif](https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/admin_editarPontos.gif)
 # 📦 Como Rodar o Projeto Localmente  
 
 Para rodar o projeto em seu ambiente local, siga as instruções abaixo:  
