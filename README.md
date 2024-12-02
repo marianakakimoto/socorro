@@ -85,10 +85,10 @@ O projeto exige algumas variáveis de ambiente para funcionar corretamente. Crie
 
 .env
 ```bash
-MONGODB_URI = mongodb+srv://mateusrosa:12345@ecosrev.mgyfdgg.mongodb.net/?retryWrites=true&w=majority&appName=EcosRev
-MONGODB_DB = EcosRev
-EXPIRES_IN = 24h
-SECRET_KEY = $$_3C0SR3V_$$
+MONGODB_URI = [Conexão com o Banco de Dados]
+MONGODB_DB = [Nome do Banco de Dados]
+EXPIRES_IN = 24h [Tempo para expiração do Token]
+SECRET_KEY = [Encriptação]
 PORT = 4000
 ```
 ## **Passo 4: Rodar o Projeto**
@@ -101,7 +101,7 @@ Execute o servidor de desenvolvimento do frontend:
 cd frontend
 npm run dev
 ```
-O frontend estará disponível em http://localhost:3000.
+O frontend estará disponível em http://localhost:4000.
 
 Backend
 Execute o servidor de desenvolvimento do backend:
@@ -110,7 +110,7 @@ Execute o servidor de desenvolvimento do backend:
 cd backend
 npm run dev
 ```
-O backend estará disponível em http://localhost:5000 (ou qualquer porta configurada no .env).
+O backend estará disponível em http://localhost:4000 (ou qualquer porta configurada no .env).
 
 📄 Documentação da API
 A API do projeto está documentada e pode ser acessada pelo Swagger. Após rodar o backend, você pode acessar a documentação da API no seguinte endereço:
