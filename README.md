@@ -187,37 +187,44 @@ Acesse o protótipo interativo no Figma:
   <details>
     <summary>🐳 Docker: Frontend</summary>
     <p>
-      Construir a Imagem do Frontend: 
+    Construir a Imagem do Frontend: 
      
       docker build -t ecosrev-frontend-app .
-      
+  <p> 
       Executar o Container:  
+
+</p>
       
       docker run -p 3000:3000 -e NEXT_PUBLIC_API_URL=http://localhost:4000/api
-    </p>
-  </details>
-  Link do Frontend no Docker Hub:  
+  </p>
+   Link do Frontend no Docker Hub:  
       <a href="https://hub.docker.com/r/yamaokak/ecosrev-frontend" target="_blank">https://hub.docker.com/r/yamaokak/ecosrev-frontend</a>
+  <details>    
+    
+  </details>
+  
   <details>
     <summary>🐳 Docker: Backend</summary>
     <p>
       Construir a Imagem do Backend:  
-      docker build -t ecosrev-backend .
-  
-      Executar o Container:  
-      docker run -p 4000:4000 --env-file .env ecosrev-backend
-  
       
-    </p>
+      docker build -t ecosrev-backend .
+  <p>
+     Executar o Container:  
+  </p>
+     
+      docker run -p 4000:4000 --env-file .env ecosrev-backend 
+  </p>
   </details>
-  Link do Backend no Docker Hub:  
-      <link href="https://www.exemplo.com/arquivo/docker_instrucoes.doc" target="_blank">Baixar Instruções do Docker</link>
+ 
   <details>
     <summary>🐳 Docker: Composição (Frontend + Backend)</summary>
     <p>
       Rodar Frontend e Backend no Mesmo Container:  
+      
       docker-compose up --build
-    </p>
+      
+  </p>
   </details>
 </details>
 
