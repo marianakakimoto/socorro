@@ -41,46 +41,6 @@ Este projeto foi desenvolvido no âmbito do curso de **Laboratório de Desenvolv
 
 ---
 
-<details>
-  <summary>🎬 Apresentação</summary>
-  <p>
-    <summary>Cadastro</summary>
-    <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_cadastro.gif" alt="Cadastro">
-  </p>
-  <p>
-    <summary>Login (usuário) </summary>
-    <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_login.gif" alt="Login Usuário">
-  </p>
-  <p>
-    <summary>Selecionar benefícios para resgate </summary>
-    <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_trocapontos.gif" alt="Selecionar Benefícios">
-  </p>
-  <p>
-    <summary>Perfil </summary>
-    <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_perfil.gif" alt="Perfil">
-  </p>
-  <p>
-    <summary>Logout </summary>
-    <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_logout.gif" alt="Logout">
-  </p>
-  <p>
-    <summary>Login (administrador) </summary> 
-    <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/admin_login.gif" alt="Login Administrador">
-  </p>
-  <p>
-    <summary>Cadastrar benefícios </summary> 
-    <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/admin_cadastrarBeneficios.gif" alt="Cadastrar Benefícios">
-  </p>
-  <p>
-    <summary>Editar benefícios </summary> 
-    <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/admin_editarBeneficios.gif" alt="Editar Benefícios">
-  </p>
-  <p>
-    <summary>Editar pontos </summary> 
-    <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/admin_editarPontos.gif" alt="Editar Pontos">
-  </p>
-</details>
-
 ## 📦 Como Rodar o Projeto Localmente  
 
 Para rodar o projeto em seu ambiente local, siga as instruções abaixo:  
@@ -172,6 +132,52 @@ Acesse o protótipo interativo no Figma:
 [Protótipo no Figma](https://www.figma.com/design/9qf7Ry7BcaML25kAtYWB17/Untitled)
 
 ---
+
+<details>
+  <summary>🎬 Apresentação</summary>
+  <p>
+    <summary>Cadastro</summary>
+    <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_cadastro.gif" alt="Cadastro">
+  </p>
+  <p>
+    <summary>Login (usuário) </summary>
+    <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_login.gif" alt="Login Usuário">
+  </p>
+  <p>
+    <summary>Selecionar benefícios para resgate </summary>
+    <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_trocapontos.gif" alt="Selecionar Benefícios">
+  </p>
+  <p>
+    <summary>Perfil </summary>
+    <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_perfil.gif" alt="Perfil">
+  </p>
+  <p>
+    <summary>Logout </summary>
+    <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_logout.gif" alt="Logout">
+  </p>
+  <p>
+    <summary>Login (administrador) </summary> 
+    <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/admin_login.gif" alt="Login Administrador">
+  </p>
+  <p>
+    <summary>Cadastrar benefícios </summary> 
+    <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/admin_cadastrarBeneficios.gif" alt="Cadastrar Benefícios">
+  </p>
+  <p>
+    <summary>Editar benefícios </summary> 
+    <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/admin_editarBeneficios.gif" alt="Editar Benefícios">
+  </p>
+  <p>
+    <summary>Editar pontos </summary> 
+    <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/admin_editarPontos.gif" alt="Editar Pontos">
+  </p>
+</details>
+
+##🌐 Hospedagem do Site
+Este site está hospedado na [Vercel](https://vercel.com), uma plataforma de deploy e hospedagem de aplicações web, otimizada para projetos front-end e full-stack. A Vercel oferece recursos como deploys automáticos a partir de repositórios Git, integração contínua e um desempenho de alta qualidade com uma rede de entrega de conteúdo (CDN) global.
+
+##📍 Acesso
+Você pode acessar o site através do seguinte link: [EcosRev - PI](https://ecos-rev-pi.vercel.app)
 
 
 🧑‍💻 Desenvolvedores
