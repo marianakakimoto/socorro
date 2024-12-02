@@ -44,7 +44,7 @@ Este projeto foi desenvolvido no âmbito do curso de **Laboratório de Desenvolv
 <details>
   <summary>🎬 Apresentação</summary>
   <p>
-    <details>Cadastro</details>
+    <summary>Cadastro</summary>
     <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_cadastro.gif" alt="Cadastro">
   </p>
   <p>
@@ -80,6 +80,7 @@ Este projeto foi desenvolvido no âmbito do curso de **Laboratório de Desenvolv
     <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/admin_editarPontos.gif" alt="Editar Pontos">
   </p>
 </details>
+
 ## 📦 Como Rodar o Projeto Localmente  
 
 Para rodar o projeto em seu ambiente local, siga as instruções abaixo:  
