@@ -171,7 +171,7 @@ Acesse o protótipo interativo no Figma:
 </details>
 
 ---
-
+<details>
   <summary style="color: #0070f3;">🐳 Docker: O que é e Como Usar</summary>
   <p>
     No desenvolvimento do EcosRev, utilizamos o Docker para garantir que tanto o frontend quanto o backend fossem executados de maneira consistente em diferentes ambientes. 
@@ -196,9 +196,10 @@ Acesse o protótipo interativo no Figma:
       
       docker run -p 3000:3000 -e NEXT_PUBLIC_API_URL=http://localhost:4000/api
   </p>
+  
    Link do Frontend no Docker Hub:  
       <a href="https://hub.docker.com/r/yamaokak/ecosrev-frontend" target="_blank">https://hub.docker.com/r/yamaokak/ecosrev-frontend</a>
-  
+  </details>
   <details>
     <summary>🐳 Docker: Backend</summary>
     <p>
