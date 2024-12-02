@@ -172,8 +172,7 @@ Acesse o protótipo interativo no Figma:
 
 ---
 
-<details>
-    <summary style="color: #0070f3;">🐳 Docker: O que é e Como Usar</summary>
+  <summary style="color: #0070f3;">🐳 Docker: O que é e Como Usar</summary>
   <p>
     No desenvolvimento do EcosRev, utilizamos o Docker para garantir que tanto o frontend quanto o backend fossem executados de maneira consistente em diferentes ambientes. 
     Com a utilização de contêineres Docker, conseguimos isolar os serviços, garantindo que as dependências necessárias para o funcionamento de cada parte da aplicação estivessem sempre presentes,   
@@ -224,7 +223,6 @@ Acesse o protótipo interativo no Figma:
       docker-compose up --build
       
   </p>
-  </details>
   </details>
 
 
