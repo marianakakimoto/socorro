@@ -213,7 +213,8 @@ Acesse o protótipo interativo no Figma:
       docker run -p 4000:4000 --env-file .env ecosrev-backend 
   </p>
    Link do Backend no Docker Hub:  
-      <a href="https://hub.docker.com/r/yamaokak/ecosrev-backend" target="_blank">Imagem Backend Docker</a>
+   
+  <a href="https://hub.docker.com/r/yamaokak/ecosrev-backend" target="_blank">Imagem Backend Docker</a>
   </details>
  
   <details>
