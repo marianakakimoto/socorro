@@ -44,39 +44,39 @@ Este projeto foi desenvolvido no âmbito do curso de **Laboratório de Desenvolv
 <details>
   <summary>🎬 Apresentação</summary>
   <p>
-    > *Cadastro:*  
+    >Cadastro: 
     <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_cadastro.gif" alt="Cadastro">
   </p>
   <p>
-    > *Login (usuário):*  
+    >Login (usuário):
     <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_login.gif" alt="Login Usuário">
   </p>
   <p>
-    > *Selecionar benefícios para resgate:*  
+    >Selecionar benefícios para resgate: 
     <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_trocapontos.gif" alt="Selecionar Benefícios">
   </p>
   <p>
-    > *Perfil:*  
+    >Perfil:
     <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_perfil.gif" alt="Perfil">
   </p>
   <p>
-    > *Logout:*  
+    >Logout:  
     <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/usuario_logout.gif" alt="Logout">
   </p>
   <p>
-    > *Login (administrador):*  
+    >Login (administrador):  
     <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/admin_login.gif" alt="Login Administrador">
   </p>
   <p>
-    > *Cadastrar Benefícios:*  
+    >Cadastrar Benefícios:
     <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/admin_cadastrarBeneficios.gif" alt="Cadastrar Benefícios">
   </p>
   <p>
-    > *Editar Benefícios:*  
+    >Editar Benefícios: 
     <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/admin_editarBeneficios.gif" alt="Editar Benefícios">
   </p>
   <p>
-    > *Editar Pontos:*  
+    >Editar Pontos:
     <img src="https://github.com/AEntropia/EcosRev-PI/blob/master/public/images/doc/admin_editarPontos.gif" alt="Editar Pontos">
   </p>
 </details>
