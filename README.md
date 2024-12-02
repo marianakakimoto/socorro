@@ -182,7 +182,7 @@ Acesse o protótipo interativo no Figma:
    Você pode baixar o material completo em um arquivo .doc com as instruções detalhadas no link abaixo:
   </p>  
   
-    <a href="https://www.exemplo.com/arquivo/docker_instrucoes.doc" target="_blank">Baixar Instruções do Docker</a>
+  <a href="https://www.exemplo.com/arquivo/docker_instrucoes.doc" target="_blank">Baixar Instruções do Docker</a>
     
   <details>
     <summary>🐳 Docker: Frontend</summary>
@@ -212,6 +212,8 @@ Acesse o protótipo interativo no Figma:
      
       docker run -p 4000:4000 --env-file .env ecosrev-backend 
   </p>
+   Link do Backend no Docker Hub:  
+      <a href="https://www.exemplo.com/arquivo/docker_instrucoes.doc" target="_blank">Baixar Instruções do Docker</a>
   </details>
  
   <details>
@@ -223,7 +225,7 @@ Acesse o protótipo interativo no Figma:
       
   </p>
   </details>
-</details>
+  </details>
 
 
 ## 🌐 Hospedagem do Site
