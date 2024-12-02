@@ -85,14 +85,11 @@ O projeto exige algumas variáveis de ambiente para funcionar corretamente. Crie
 
 .env
 ```bash
-MONGO_URI=seu_mongo_uri
-JWT_SECRET=sua_chave_secreta
-PORT=porta_backend
-CLIENT_URL=URL_do_frontend
-MONGO_URI: A URL de conexão com o banco de dados MongoDB.
-JWT_SECRET: Uma chave secreta para gerar tokens JWT.
-PORT: A porta onde o backend estará rodando (exemplo: 5000).
-CLIENT_URL: URL onde o frontend estará rodando (exemplo: http://localhost:3000).
+MONGODB_URI = mongodb+srv://mateusrosa:12345@ecosrev.mgyfdgg.mongodb.net/?retryWrites=true&w=majority&appName=EcosRev
+MONGODB_DB = EcosRev
+EXPIRES_IN = 24h
+SECRET_KEY = $$_3C0SR3V_$$
+PORT = 4000
 ```
 ## **Passo 4: Rodar o Projeto**
 Agora, você pode rodar o frontend e o backend em seu ambiente local:
