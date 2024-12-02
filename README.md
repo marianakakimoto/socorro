@@ -180,25 +180,24 @@ Acesse o protótipo interativo no Figma:
     independentemente do ambiente em que o projeto estivesse rodando.
 
    Você pode baixar o material completo em um arquivo .doc com as instruções detalhadas no link abaixo:
-
-    
   </p>  
+  
     <a href="https://www.exemplo.com/arquivo/docker_instrucoes.doc" target="_blank">Baixar Instruções do Docker</a>
+    
   <details>
     <summary>🐳 Docker: Frontend</summary>
     <p>
-      Construir a Imagem do Frontend:  
+      Construir a Imagem do Frontend: 
+     
       docker build -t ecosrev-frontend-app .
-  
+      
       Executar o Container:  
+      
       docker run -p 3000:3000 -e NEXT_PUBLIC_API_URL=http://localhost:4000/api
-  
-      Link do Frontend no Docker Hub:  
-      <a href="https://hub.docker.com/r/yamaokak/ecosrev-frontend" target="_blank">https://hub.docker.com/r/yamaokak/ecosrev-frontend</a>
     </p>
-    
   </details>
-  
+  Link do Frontend no Docker Hub:  
+      <a href="https://hub.docker.com/r/yamaokak/ecosrev-frontend" target="_blank">https://hub.docker.com/r/yamaokak/ecosrev-frontend</a>
   <details>
     <summary>🐳 Docker: Backend</summary>
     <p>
@@ -208,11 +207,11 @@ Acesse o protótipo interativo no Figma:
       Executar o Container:  
       docker run -p 4000:4000 --env-file .env ecosrev-backend
   
-      Link do Backend no Docker Hub:  
-      <link href="https://www.exemplo.com/arquivo/docker_instrucoes.doc" target="_blank">Baixar Instruções do Docker</link>
+      
     </p>
   </details>
-  
+  Link do Backend no Docker Hub:  
+      <link href="https://www.exemplo.com/arquivo/docker_instrucoes.doc" target="_blank">Baixar Instruções do Docker</link>
   <details>
     <summary>🐳 Docker: Composição (Frontend + Backend)</summary>
     <p>
