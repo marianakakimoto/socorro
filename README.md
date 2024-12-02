@@ -86,8 +86,8 @@ O projeto exige algumas variáveis de ambiente para funcionar corretamente. Crie
 .env
 ```bash
 MONGODB_URI = [Conexão com o Banco de Dados]
-MONGODB_DB = [Nome do Banco de Dados]
-EXPIRES_IN = 24h [Tempo para expiração do Token]
+MONGODB_DB = [Nome Banco de Dados]
+EXPIRES_IN = 24h [Tempo para expiração Token]
 SECRET_KEY = [Encriptação]
 PORT = 4000
 ```
