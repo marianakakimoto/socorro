@@ -20,17 +20,6 @@ Este projeto explora conceitos e práticas essenciais de **segurança da informa
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-
-- [Next.js](https://nextjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
-- [ESLint](https://eslint.org/)
-- [Toast Notifications (como Sonner ou Radix UI)](https://sonner.emilkowal.dev/)
-
----
-
 ## 🚧 Como rodar o projeto
 
 1. Clone este repositório:
@@ -61,6 +50,7 @@ Este projeto explora conceitos e práticas essenciais de **segurança da informa
 - 🔑 Sistema de autenticação de usuários
 - 📢 Exibição de mensagens de alerta/toast
 - 🧩 Layout responsivo com navegação intuitiva
+- 🗝 Autenticação via JWT
 
 ---
 
@@ -70,16 +60,6 @@ Este projeto explora conceitos e práticas essenciais de **segurança da informa
 - **Autenticação e controle de acesso**: módulo `auth.ts`  
 - **Boas práticas de desenvolvimento seguro**  
 - **Gerenciamento de sessões e dados**
-
----
-
-## 🚀 Melhorias Futuras
-
-- Implementar autenticação via JWT
-- Substituir a cifra de César por criptografia moderna (ex: AES)
-- Adicionar logs e monitoramento de segurança
-- Integração com banco de dados remoto
-- Implementar controle de permissões por perfil de usuário
 
 ---
 
